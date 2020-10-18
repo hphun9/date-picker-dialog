@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Date Picker Dialog</string>
+    <string name="from_date">From Date</string>
+    <string name="to_date">To Date</string>
+    <string name="text_view">Pick Date Start and End</string>
+</resources>
